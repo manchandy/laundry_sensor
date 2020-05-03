@@ -81,7 +81,7 @@ void loop() {
     }
 
     
-    String url = "https://maker.ifttt.com/trigger/esp8266_test/with/key/d2wy4sRGiMLi3iboCcOgva";
+    String url = "https://maker.ifttt.com/trigger/Laundry_Done/with/key/d2wy4sRGiMLi3iboCcOgva";
 
     Serial.print("Requesting URL: ");
     Serial.println(url);
@@ -108,3 +108,4 @@ void loop() {
     delay(200);
   }
 }
+
